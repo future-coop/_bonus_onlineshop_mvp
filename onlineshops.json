@@ -2,13 +2,41 @@
   "success": true,
   "data": [
     {
+      "title": "Shop1",
       "additionalProperties": {
         "future": {
           "isPartner": true,
-          "discountAmount": 0.05
+          "discountAmount": 0.05,
+          "codeString": "mit Code: FUTUREBONUS"
         }
       },
-      "title": "Phasenreich",
+      "description": "Fashion Store mit nachhaltigem Sortiment. Ein Kombi-Laden – gleichzeitig Bio-Café, Bio-Fashion-Store und Shop für außergewöhnliche Geschenkideen.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.phasenreich.net/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/04/P1155414-4-1024x577.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
+      "title": "Shop2",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "discountAmount": 0.05,
+          "codeString": "mit Code: FUTUREBONUS"
+        }
+      },
       "description": "Fashion Store mit nachhaltigem Sortiment. Ein Kombi-Laden – gleichzeitig Bio-Café, Bio-Fashion-Store und Shop für außergewöhnliche Geschenkideen.",
       "contact": {
         "websites": [
