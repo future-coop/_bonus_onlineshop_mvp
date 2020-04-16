@@ -2,17 +2,12 @@
   "success": true,
   "data": [
     {
-      "logo": {
-        "url": ""
-      },
       "additionalProperties": {
         "future": {
           "isPartner": true,
           "discountAmount": 0.05
         }
       },
-      "placeCategory": [],
-      "references": [],
       "title": "Phasenreich",
       "description": "Fashion Store mit nachhaltigem Sortiment. Ein Kombi-Laden – gleichzeitig Bio-Café, Bio-Fashion-Store und Shop für außergewöhnliche Geschenkideen.",
       "contact": {
@@ -32,6 +27,5 @@
         }
       ]
     }
-  ],
-  "total": 1
+  ]
 }
