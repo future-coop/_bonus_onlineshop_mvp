@@ -2,7 +2,7 @@
   "success": true,
   "data": [
     {
-      "title": "Solaris Biotee",
+      "title": "Solaris Bio Tee",
       "additionalProperties": {
         "future": {
           "isPartner": true,
@@ -10,12 +10,12 @@
           "codeString": "mit Code: FUTURECOOP"
         }
       },
-      "description": "Ganzblatt Spitzen-Tees und Kräutermischungen aus biologischen Anbau die geschmacklich begeistern, und dabei Körper und Geist Wohlbefinden schenken.",
+      "description": "Ganzblatt Spitzen-Tees und Kräutermischungen aus biologischen Anbau - lose und im biologisch abbaubaren Teebeutel. Einfach geniessen.",
       "contact": {
         "websites": [
           {
             "primary": true,
-            "url": "https://www.goodearthgoods.de/collections/all"
+            "url": "https://www.goodearthgoods.de/collections"
           }
         ]
       },
@@ -29,7 +29,7 @@
       ]
     },
     {
-      "title": "Shop2",
+      "title": "Folkdays",
       "additionalProperties": {
         "future": {
           "isPartner": true,
@@ -37,12 +37,12 @@
           "codeString": "mit Code: FUTUREBONUS"
         }
       },
-      "description": "Fashion Store mit nachhaltigem Sortiment. Ein Kombi-Laden – gleichzeitig Bio-Café, Bio-Fashion-Store und Shop für außergewöhnliche Geschenkideen.",
+      "description": "FOLKDAYS bietet Fair Fashion, Accessoirs, Schmuck und Interior-Produkte mit anspruchsvollem, zeitgenössischen Design.",
       "contact": {
         "websites": [
           {
             "primary": true,
-            "url": "https://www.phasenreich.net/"
+            "url": "https://folkdays.de/"
           }
         ]
       },
@@ -50,7 +50,7 @@
         {
           "_id": "5e6765ade7485b5a49458b5d",
           "primary": true,
-          "url": "https://phasenreich.net/wp-content/uploads/2015/11/pr-slide11.jpg",
+          "url": "https://future.coop/wp-content/uploads/2020/04/Fotofolkdays.png",
           "license": "CC0-1.0"
         }
       ]
