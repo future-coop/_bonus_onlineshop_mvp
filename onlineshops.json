@@ -33,7 +33,7 @@
       "additionalProperties": {
         "future": {
           "isPartner": true,
-          "discountAmount": 0.05,
+          "discountAmount": 0.1,
           "codeString": "mit Code: FUTUREBONUS"
         }
       },
