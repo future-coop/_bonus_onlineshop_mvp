@@ -2,20 +2,20 @@
   "success": true,
   "data": [
     {
-      "title": "Shop1",
+      "title": "Solaris Biotee",
       "additionalProperties": {
         "future": {
           "isPartner": true,
-          "discountAmount": 0.05,
-          "codeString": "mit Code: FUTUREBONUS"
+          "discountAmount": 0.1,
+          "codeString": "mit Code: FUTURECOOP"
         }
       },
-      "description": "Fashion Store mit nachhaltigem Sortiment. Ein Kombi-Laden – gleichzeitig Bio-Café, Bio-Fashion-Store und Shop für außergewöhnliche Geschenkideen.",
+      "description": "Ganzblatt Spitzen-Tees und Kräutermischungen aus biologischen Anbau die geschmacklich begeistern, und dabei Körper und Geist Wohlbefinden schenken.",
       "contact": {
         "websites": [
           {
             "primary": true,
-            "url": "https://www.phasenreich.net/"
+            "url": "https://www.goodearthgoods.de/collections/all"
           }
         ]
       },
@@ -23,7 +23,7 @@
         {
           "_id": "5e6765ade7485b5a49458b5d",
           "primary": true,
-          "url": "https://future.coop/wp-content/uploads/2020/04/P1155414-4-1024x577.jpg",
+          "url": "https://future.coop/wp-content/uploads/2020/04/Solaris-Biotee.png"
           "license": "CC0-1.0"
         }
       ]
