@@ -29,6 +29,33 @@
       ]
     },
     {
+      "title": "Leelas",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "discountAmount": 0.1,
+          "codeString": "mit Code: FUTUREBONUS"
+        }
+      },
+      "description": "Bei Leelas findest du schöne Geschenke, Lieblingsstücke und kleine Kunstwerke. Sorgfältig ausgewählt, nachhaltig produziert, fair gehandelt.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://leelas.shop/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/04/Startbild_Leelas2.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
       "title": "Folkdays",
       "additionalProperties": {
         "future": {
