@@ -2,7 +2,7 @@
   "success": true,
   "data": [
     {
-      "title": "Solaris Bio Tee",
+      "title": "Folkdays",
       "additionalProperties": {
         "future": {
           "isPartner": true,
@@ -10,12 +10,12 @@
           "codeString": "mit Code: FUTUREBONUS"
         }
       },
-      "description": "Ganzblatt Spitzen-Tees und Kräutermischungen aus biologischen Anbau - lose und im biologisch abbaubaren Teebeutel. Einfach geniessen.",
+      "description": "FOLKDAYS bietet Fair Fashion, Accessoirs, Schmuck und Interior-Produkte mit anspruchsvollem, zeitgenössischen Design. Das kleine Berliner Team pflegt direkte und persönliche Beziehungen zu ihren Artisans weltweit.",
       "contact": {
         "websites": [
           {
             "primary": true,
-            "url": "https://www.goodearthgoods.de/collections"
+            "url": "https://folkdays.de/"
           }
         ]
       },
@@ -23,7 +23,34 @@
         {
           "_id": "5e6765ade7485b5a49458b5d",
           "primary": true,
-          "url": "https://future.coop/wp-content/uploads/2020/04/Solaris-Biotee.png",
+          "url": "https://future.coop/wp-content/uploads/2020/04/Mood_FOLKDAYS-002.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
+      "title": "Jesango",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "discountAmount": 0.15,
+          "codeString": "mit Code: FUTUREBONUS"
+        }
+      },
+      "description": "jesango ist die erste Shopping Community für faire Mode & nachhaltigen Lifestyle. Hier findest Du etablierte Brands und Newcomer Marken, für Frauen, Männer, Kinder und dein zuhause. Jesango unterstützt mit jeder Bestellung gemeinnützige Projekte und arbeitet an einer transparenten Wertschöpfungskette.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.jesango.de/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/05/Jesango.jpg",
           "license": "CC0-1.0"
         }
       ]
@@ -56,20 +83,20 @@
       ]
     },
     {
-      "title": "Folkdays",
+      "title": "Phasenreich",
       "additionalProperties": {
         "future": {
           "isPartner": true,
-          "discountAmount": 0.1,
+          "discountAmount": 0.05,
           "codeString": "mit Code: FUTUREBONUS"
         }
       },
-      "description": "FOLKDAYS bietet Fair Fashion, Accessoirs, Schmuck und Interior-Produkte mit anspruchsvollem, zeitgenössischen Design. Das kleine Berliner Team pflegt direkte und persönliche Beziehungen zu ihren Artisans weltweit.",
+      "description": "Bio-Fashion und Accessoires für Frauen und Männer. Aktuelle Trends und Klassiker, fair gefertigt, nachhaltig produziert, vom Phasenreich Team ausgesucht und zusammengestellt.",
       "contact": {
         "websites": [
           {
             "primary": true,
-            "url": "https://folkdays.de/"
+            "url": "https://phasenreich.net/"
           }
         ]
       },
@@ -77,10 +104,37 @@
         {
           "_id": "5e6765ade7485b5a49458b5d",
           "primary": true,
-          "url": "https://future.coop/wp-content/uploads/2020/04/Mood_FOLKDAYS-002.jpg",
+          "url": "https://future.coop/wp-content/uploads/2020/05/Phasenreich.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
+      "title": "Solaris Bio Tee",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "discountAmount": 0.1,
+          "codeString": "mit Code: FUTUREBONUS"
+        }
+      },
+      "description": "Ganzblatt Spitzen-Tees und Kräutermischungen aus biologischen Anbau - lose und im biologisch abbaubaren Teebeutel. Einfach geniessen.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.goodearthgoods.de/collections"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/04/Solaris-Biotee.png",
           "license": "CC0-1.0"
         }
       ]
     }
   ]
-} 
+}
