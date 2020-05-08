@@ -6,7 +6,7 @@
       "additionalProperties": {
         "future": {
           "isPartner": true,
-          "discountAmount": 0.1,
+          "partnerDiscount": 0.1,
           "codeString": "mit Code: FUTUREBONUS"
         }
       },
@@ -33,7 +33,7 @@
       "additionalProperties": {
         "future": {
           "isPartner": true,
-          "discountAmount": 0.15,
+          "partnerDiscount": 0.15,
           "codeString": "mit Code: FUTUREBONUS"
         }
       },
@@ -60,7 +60,7 @@
       "additionalProperties": {
         "future": {
           "isPartner": true,
-          "discountAmount": 0.1,
+          "partnerDiscount": 0.1,
           "codeString": "mit Code: FUTUREBONUS"
         }
       },
@@ -87,7 +87,7 @@
       "additionalProperties": {
         "future": {
           "isPartner": true,
-          "discountAmount": 0.05,
+          "partnerDiscount": 0.05,
           "codeString": "mit Code: FUTUREBONUS"
         }
       },
@@ -114,7 +114,7 @@
       "additionalProperties": {
         "future": {
           "isPartner": true,
-          "discountAmount": 0.1,
+          "partnerDiscount": 0.1,
           "codeString": "mit Code: FUTUREBONUS"
         }
       },
