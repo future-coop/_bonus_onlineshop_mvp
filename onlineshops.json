@@ -87,7 +87,7 @@
       "additionalProperties": {
         "future": {
           "isPartner": true,
-          "discountAmount": 0.1,
+          "partnerDiscount": 0.1,
           "codeString": "mit Code: PQH2S60TCKH3"
         }
       },
