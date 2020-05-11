@@ -83,6 +83,33 @@
       ]
     },
     {
+      "title": "Nordery",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "discountAmount": 0.1,
+          "codeString": "mit Code: PQH2S60TCKH3"
+        }
+      },
+      "description": "Bei Nordery findest Du nachhaltige Wohndekoration und Home Accessoires im nordischen Designstil sowie ausgewählte Naturkosmetik. Der Bonus gilt nicht für Bücher und Versand.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.nordery.com/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/05/N_Atelier_Poster_Poster_Nombre_01_Cmidnatt.png",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
       "title": "Phasenreich",
       "additionalProperties": {
         "future": {
