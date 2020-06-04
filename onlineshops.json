@@ -191,6 +191,33 @@
       ]
     },
     {
+      "title": "SIRPLUS",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "partnerDiscount": 0.05,
+          "codeString": "mit Code: FUTURE5"
+        }
+      },
+      "description": " Dit is doch noch jut! Mit deinem Einkauf bei SIRPLUS hilfst Du die Lebensmittelverschwendung zu bekämpfen. Durch die direkte Zusammenarbeit mit 700 Produzent*innen und Großhändler*innen gelingt es SIRPLUS, wertvolle Lebensmittel zu retten, die die Tafeln nicht verwenden können, die aber bestens genießbar sind. Hinweis: Mindestbestellwert 34,90€. Beim Kauf eines Abonnements gültig für die erste Bestellung.“.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": " https://sirplus.de/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/06/sirplus_veggie_2_1200-1.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
       "title": "Solaris Bio Tee",
       "additionalProperties": {
         "future": {
