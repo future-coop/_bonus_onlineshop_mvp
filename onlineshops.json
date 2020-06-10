@@ -56,20 +56,20 @@
       ]
     },
    {
-  	"title": "Folkdays",
+  	"title": "Holledauer Seifenrausch",
   	"additionalProperties": {
     	"future": {
       	"isPartner": true,
-      	"partnerDiscount": 0.1,
-      	"codeString": "mit Code: FUTUREBONUS"
+      	"partnerDiscount": 0.08,
+      	"codeString": "mit Code: SEIFENBONUS"
     	}
   	},
-  	"description": "FOLKDAYS bietet Fair Fashion, Accessoires, Schmuck und Interior-Produkte mit anspruchsvollem, zeitgenössischen Design. Das kleine Berliner Team pflegt direkte und persönliche Beziehungen zu ihren Artisans weltweit.",
+  	"description": " Schöne Auswahl an handgefertigten Seifen, selbstverständlich ohne Plastik/Mikroplastik, Konservierungsstoffe und frei von Palmöl. Die Seifen werden in der Seifenküche mit ausgesuchten Bio-Ölen von Hand hergestellt. Wo immer möglich sind die Öle lokal und regional eingekauft. Laborgeprüft ist die Qualität natürlich auch.",
   	"contact": {
     	"websites": [
       	{
         	"primary": true,
-        	"url": "https://folkdays.de/"
+        	"url": " https://seifenrausch.de/"
       	}
     	]
   	},
@@ -77,7 +77,7 @@
     	{
       	"_id": "5e6765ade7485b5a49458b5d",
       	"primary": true,
-      	"url": "https://future.coop/wp-content/uploads/2020/04/Mood_FOLKDAYS-002.jpg",
+      	"url": " https://future.coop/wp-content/uploads/2020/06/IMG_20200504_152641_resized_20200609_064207220-1-scaled.jpg ",
       	"license": "CC0-1.0"
     	}
   	]
