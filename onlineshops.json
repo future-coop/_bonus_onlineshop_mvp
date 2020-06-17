@@ -299,7 +299,7 @@
       ]
     },
     {
-      "title": "Ver.de BIKE",
+      "title": "ver.de BIKE",
       "additionalProperties": {
         "future": {
           "isPartner": true,
@@ -307,12 +307,12 @@
           "codeString": "mit Code: FUTURE01"
         }
       },
-      "description": "Eine nachhaltige Fahrradabsicherung gegen Diebstahl gibt es bei ver.de BIKE für alle Radltypen und natürlich auch E-Bikes.“,
+      "description": "Bei ver.de BIKE sicherst du dein Fahrrad nachhaltig gegen Diebstahl ab. ",
       "contact": {
         "websites": [
           {
             "primary": true,
-            "url": " https://bike.ver.de/ "
+            "url": "https://bike.ver.de/"
           }
         ]
       },
@@ -320,10 +320,11 @@
         {
           "_id": "5e6765ade7485b5a49458b5d",
           "primary": true,
-          "url": " https://future.coop/wp-content/uploads/2020/06/samstag-2099-1024x683-1.jpg ",
+          "url": "https://future.coop/wp-content/uploads/2020/06/samstag-2099-1024x683-1.jpg",
           "license": "CC0-1.0"
         }
       ]
-    }
+    }   
   ]
 }
+
