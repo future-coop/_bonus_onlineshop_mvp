@@ -1,21 +1,21 @@
 {
   "success": true,
   "data": [
-    {
-      "title": "Champagne Characters",
+      {
+      "title": "Pyua",
       "additionalProperties": {
         "future": {
           "isPartner": true,
-          "partnerDiscount": 0.1,
+          "partnerDiscount": 0.15,
           "codeString": "mit Code: FUTUREBONUS"
         }
       },
-      "description": "Nicht alle, aber viele der Champagner, die du hier findest, sind Bio bzw. die Weingüter sind gerade in der Umstellung. Gerade in der Champagne hat sich der ökologische Anbau noch nicht durchgesetzt, umso bemerkenswerter das Angebot von Champagne Characters! Viel Wert wird zudem auf die persönliche Zusammenarbeit mit den Weinbauern gelegt. Für alle die gerne etwas Besonderes genießen, dies aber nicht mit Prestige verbinden, sondern mit Handwerk, Passion und individueller Philosophie.",
+      "description": "PYUA produziert seit 2008 nachhaltige Funktions- und Outdoorkleidung. Die Produkte sind aus recycelten Materialien und vollständig recycelbar, ganz nach dem Motto „Minimize your tracks“.",
       "contact": {
         "websites": [
           {
             "primary": true,
-            "url": "https://www.champagne-characters.com/"
+            "url": "https://pyua.de"
           }
         ]
       },
@@ -23,12 +23,12 @@
         {
           "_id": "5e6765ade7485b5a49458b5d",
           "primary": true,
-          "url": "https://future.coop/wp-content/uploads/2020/05/Champagne-Characters-Laden-scaled.jpg",
+          "url": "https://future.coop/wp-content/uploads/2020/05/Pyua3.png",
           "license": "CC0-1.0"
         }
       ]
-    },
-    {
+    }, 
+{
       "title": "Folkdays",
       "additionalProperties": {
         "future": {
@@ -55,7 +55,61 @@
         }
       ]
     },
-   {
+    {
+      "title": "SIRPLUS",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "partnerDiscount": 0.05,
+          "codeString": "mit Code: FUTURE5"
+        }
+      },
+      "description": " Dit is doch noch jut! Mit deinem Einkauf bei SIRPLUS bekämpfst du die Lebensmittelverschwendung. Durch die direkte Zusammenarbeit mit 700 Produzent*innen und Großhändler*innen gelingt es SIRPLUS, wertvolle Lebensmittel zu retten, die die Tafeln nicht verwenden können, die aber bestens genießbar sind. Hinweis: Mindestbestellwert 34,90€. Beim Kauf eines Abonnements gültig für die erste Bestellung.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": " https://sirplus.de/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/06/sirplus_veggie_2_1200-1.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+  {
+      "title": "Champagne Characters",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "partnerDiscount": 0.1,
+          "codeString": "mit Code: FUTUREBONUS"
+        }
+      },
+      "description": "Nicht alle, aber viele der Champagner, die du hier findest, sind Bio bzw. die Weingüter sind gerade in der Umstellung. Gerade in der Champagne hat sich der ökologische Anbau noch nicht durchgesetzt, umso bemerkenswerter das Angebot von Champagne Characters! Viel Wert wird zudem auf die persönliche Zusammenarbeit mit den Weinbauern gelegt. Für alle die gerne etwas Besonderes genießen, dies aber nicht mit Prestige verbinden, sondern mit Handwerk, Passion und individueller Philosophie.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.champagne-characters.com/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/05/Champagne-Characters-Laden-scaled.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+  {
   	"title": "Holledauer Seifenrausch",
   	"additionalProperties": {
     	"future": {
@@ -191,60 +245,6 @@
       ]
     },
     {
-      "title": "Pyua",
-      "additionalProperties": {
-        "future": {
-          "isPartner": true,
-          "partnerDiscount": 0.15,
-          "codeString": "mit Code: FUTUREBONUS"
-        }
-      },
-      "description": "PYUA produziert seit 2008 nachhaltige Funktions- und Outdoorkleidung. Die Produkte sind aus recycelten Materialien und vollständig recycelbar, ganz nach dem Motto „Minimize your tracks“.",
-      "contact": {
-        "websites": [
-          {
-            "primary": true,
-            "url": "https://pyua.de"
-          }
-        ]
-      },
-      "images": [
-        {
-          "_id": "5e6765ade7485b5a49458b5d",
-          "primary": true,
-          "url": "https://future.coop/wp-content/uploads/2020/05/Pyua3.png",
-          "license": "CC0-1.0"
-        }
-      ]
-    },
-    {
-      "title": "SIRPLUS",
-      "additionalProperties": {
-        "future": {
-          "isPartner": true,
-          "partnerDiscount": 0.05,
-          "codeString": "mit Code: FUTURE5"
-        }
-      },
-      "description": " Dit is doch noch jut! Mit deinem Einkauf bei SIRPLUS bekämpfst du die Lebensmittelverschwendung. Durch die direkte Zusammenarbeit mit 700 Produzent*innen und Großhändler*innen gelingt es SIRPLUS, wertvolle Lebensmittel zu retten, die die Tafeln nicht verwenden können, die aber bestens genießbar sind. Hinweis: Mindestbestellwert 34,90€. Beim Kauf eines Abonnements gültig für die erste Bestellung.",
-      "contact": {
-        "websites": [
-          {
-            "primary": true,
-            "url": " https://sirplus.de/"
-          }
-        ]
-      },
-      "images": [
-        {
-          "_id": "5e6765ade7485b5a49458b5d",
-          "primary": true,
-          "url": "https://future.coop/wp-content/uploads/2020/06/sirplus_veggie_2_1200-1.jpg",
-          "license": "CC0-1.0"
-        }
-      ]
-    },
-    {
       "title": "Solaris Bio Tee",
       "additionalProperties": {
         "future": {
@@ -270,6 +270,60 @@
           "license": "CC0-1.0"
         }
       ]
-    }
+    },    
+{
+      "title": "Trübenecker",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "partnerDiscount": 0.05,
+          "codeString": "mit Code: FUTUREBONUS"
+        }
+      },
+      "description": "Frisches Obst und Gemüse direkt vom Bio-Landwirt zu dir nach Hause oder ins Office. Du entscheidest selbst was in deine Bio Box kommt. Von regionalen, alten Gemüsesorten bis hin zu fairgehandelten, exotischen Früchten findest du bei Trübenecker alles was das Fruitlover-Herz begehrt. Von bunt bis krumm, von süß bis sauer, von groß bis klein: Authentisches, natürliches Obst & Gemüse frisch vom Feld. Geliefert wird in München direkt ansonsten per UPS.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://www.truebenecker.de/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": " https://future.coop/wp-content/uploads/2020/06/1-PC.jpg ",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
+      "title": "Ver.de BIKE",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "partnerDiscount": 0.08,
+          "codeString": "mit Code: FUTURE01"
+        }
+      },
+      "description": "Eine nachhaltige Fahrradabsicherung gegen Diebstahl gibt es bei ver.de BIKE für alle Radltypen und natürlich auch E-Bikes.“,
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": " https://bike.ver.de/ "
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": " https://future.coop/wp-content/uploads/2020/06/samstag-2099-1024x683-1.jpg ",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
   ]
 }
