@@ -191,6 +191,33 @@
       ]
     },
     {
+      "title": "Lumbono",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "partnerDiscount": 0.1,
+          "codeString": "mit Code: FUTUREBONUS"
+        }
+      },
+      "description": "Eine Stehleuchte made in München? Eine Wandleuchte aus einem weitgereisten Segel oder Kaffeesack? Lumbono kreiert stylische Lampen-Unikate in einer Kombination aus Design und Nachhaltigkeit die seines gleichen sucht.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://lumbono.com/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": " https://future.coop/wp-content/uploads/2020/07/lumbono-coole-lampen.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+    {
       "title": "Nordery",
       "additionalProperties": {
         "future": {
