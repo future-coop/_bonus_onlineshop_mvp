@@ -245,20 +245,20 @@
       ]
     },
     {
-      "title": "Phasenreich",
+      "title": "Die Praxis",
       "additionalProperties": {
         "future": {
           "isPartner": true,
-          "partnerDiscount": 0.05,
-          "codeString": "mit Code: FUTUREBONUS"
+          "partnerDiscount": 0.20,
+          "codeString": "mit Code: Bitte Futuremitgliedschaft bei der Anmeldung erwähnen"
         }
       },
-      "description": "Bio-Fashion und Accessoires für Frauen und Männer. Aktuelle Trends und Klassiker, fair gefertigt, nachhaltig produziert, vom Phasenreich Team ausgesucht und zusammengestellt.",
+      "description": "Amtsartztüberprüfung bestehen? Psychopathalogosches Wissen für Coaches aufbauen? 'Die Praxis' bietet eine Weiterbildung 'Psychotherapie für Heilparktiker' online oder auch in Präsenz am schönen Ammersee. Maya Heinrichmeier und Team legen großen Wert auf nachhaltiges Handeln und durchlaufen gerade die GWÖ Zertifizierung.",
       "contact": {
         "websites": [
           {
             "primary": true,
-            "url": "https://phasenreich.net/"
+            "url": "https://www.mayaheinrichmeier.de/"
           }
         ]
       },
@@ -266,7 +266,7 @@
         {
           "_id": "5e6765ade7485b5a49458b5d",
           "primary": true,
-          "url": "https://future.coop/wp-content/uploads/2020/05/Phasenreich-1.jpg",
+          "url": "https://future.coop/wp-content/uploads/2020/08/maya_porträt_2018-002.jpeg",
           "license": "CC0-1.0"
         }
       ]
