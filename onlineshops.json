@@ -110,6 +110,33 @@
       ]
     },
   {
+      "title": "Fair Couture",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "partnerDiscount": 0.1,
+          "codeString": "mit Code: FUTUREBONUS"
+        }
+      },
+      "description": "Fair Couture ist Spezialist für nachhaltige Rucksäcke und Fairtrade Taschen. Das Angebot reicht von etablierten Fair Fashion Marken über vegane Taschen bis hin zu nachhaltigen Neuheiten aus Recycling & Upcyling Materialien.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://faircouture.com/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/08/rucksaecke-made-in-germany-online-kaufen.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+  {
   	"title": "Holledauer Seifenrausch",
   	"additionalProperties": {
     	"future": {
