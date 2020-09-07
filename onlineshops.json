@@ -64,7 +64,7 @@
           "codeString": "mit Code: FUTURE5"
         }
       },
-      "description": " Dit is doch noch jut! Mit deinem Einkauf bei SIRPLUS bekämpfst du die Lebensmittelverschwendung. Durch die direkte Zusammenarbeit mit 700 Produzent*innen und Großhändler*innen gelingt es SIRPLUS, wertvolle Lebensmittel zu retten, die die Tafeln nicht verwenden können, die aber bestens genießbar sind. Hinweis: Mindestbestellwert 34,90€. Beim Kauf eines Abonnements gültig für die erste Bestellung.",
+      "description": "Dit is doch noch jut! Mit deinem Einkauf bei SIRPLUS bekämpfst du die Lebensmittelverschwendung. Durch die direkte Zusammenarbeit mit 700 Produzent*innen und Großhändler*innen gelingt es SIRPLUS, wertvolle Lebensmittel zu retten, die die Tafeln nicht verwenden können, die aber bestens genießbar sind. Hinweis: Mindestbestellwert 34,90€. Beim Kauf eines Abonnements gültig für die erste Bestellung.",
       "contact": {
         "websites": [
           {
@@ -137,6 +137,33 @@
       ]
     },
   {
+      "title": "Goldeimer",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "partnerDiscount": 0.1,
+          "codeString": "mit Code: FUTUREBONUS"
+        }
+      },
+      "description": "Goldeimer ist das soziale Klopapier. 100% der Gewinne und jede Arbeitsstunde werden gemeinnützig eingesetzt – für Sanitärprojekte im In- und Ausland und für Aufklärung und Forschung rund um das Klo. Noch immer haben 4,2 Mrd. Menschen weltweit keinen Zugang zu einer gesicherten Sanitärversorgung. Mit dem Einkauf bei Goldeimer bringst du das Thema in die Öffentlichkeit und unterstützt die Vision: „Alle für Klos! Klos für alle! (Bonus Code gilt nicht für das ABO und die Palette).",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": "https://goldeimer.de/"
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": "https://future.coop/wp-content/uploads/2020/09/Goldeimer-Foto_Timo-Voss-002.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+	  {
   	"title": "Holledauer Seifenrausch",
   	"additionalProperties": {
     	"future": {
