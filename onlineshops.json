@@ -271,7 +271,35 @@
         }
       ]
     },
-    {
+   {
+      "title": "Maqu Store & Studio",
+      "additionalProperties": {
+        "future": {
+          "isPartner": true,
+          "partnerDiscount": 0.1,
+          "codeString": "mit Code: MAQUFORFUTURE "
+        }
+      },
+      "description": " Die Maqu Kollektionen sind ein Mix aus Kunst, Design und Praktikabilität – nachhaltig in jeglicher Hinsicht: sozial, ökologisch und voller Liebe. 
+Produziert wird fair in Deutschland und Peru aus besonders feiner Pima-Bio-Baumwolle, Alpaka- und Schafwolle artgerecht gehaltener Tiere, sowie aus Tencel/Lyocell.",
+      "contact": {
+        "websites": [
+          {
+            "primary": true,
+            "url": " https://www.bymaqu.com/shop "
+          }
+        ]
+      },
+      "images": [
+        {
+          "_id": "5e6765ade7485b5a49458b5d",
+          "primary": true,
+          "url": " https://future.coop/wp-content/uploads/2020/09/Bildderbesitzerinimshop-scaled.jpg",
+          "license": "CC0-1.0"
+        }
+      ]
+    },
+ {
       "title": "Nordery",
       "additionalProperties": {
         "future": {
